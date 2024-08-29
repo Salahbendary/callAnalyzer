@@ -6,8 +6,6 @@ The Call Analyzer Tool is a Python-based application designed to analyze VoIP ca
 
 ## Features
 
-## Features
-
 - **Upload Call Data**: Upload your VoIP call data in CSV format using the GUI.
   ![Upload Call Data](https://github.com/Salahbendary/callAnalyzer/blob/main/Images/callAnalyzerTool.png)
 
